@@ -1,6 +1,6 @@
 <h1>
   
-  Greetings!
+  Greetings! :wave:
   <h2>
     
     for hello in all_languages:
